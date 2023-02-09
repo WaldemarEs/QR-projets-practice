@@ -11,19 +11,23 @@
         justify-content: center;
         align-items: center;
         font-size: 15px;
+        
     }
     .container {
         max-width: 350px;
         display: flexbox;
         justify-content: center;
         align-items: center;
+        
+        
     }
     .tarjeta {
         background-color: hsl(0, 0%, 100%);
-        padding: 18px;
+        padding: 1.1rem;
         border-radius: 22px;
         text-align: center;
         margin: 0 .6em;
+        
     }
     .tarjeta img {
         width: 100%;
@@ -34,12 +38,12 @@
     }
     .texto h1 {
         color: hsl(218, 44%, 22%);
-        padding-bottom: auto;
+        padding-bottom: 1.2rem;
         font-size: 1.4rem;
     }
     .texto p {
         color: hsl(220, 15%, 55%);
-        padding: 15px 10px;
+        padding: 0.1 0.2rem;
     }
     .attribution { 
         font-size: 11px; text-align: center;
