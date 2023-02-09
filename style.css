@@ -8,12 +8,15 @@
         background-color: hsl(212, 45%, 89%);
         min-height: 100vh; 
         display: flex;
+        justify-content: center;
         align-items: center;
         font-size: 15px;
     }
     .container {
         max-width: 350px;
-        margin: 0 auto;
+        display: flexbox;
+        justify-content: center;
+        align-items: center;
     }
     .tarjeta {
         background-color: hsl(0, 0%, 100%);
@@ -27,11 +30,12 @@
         border-radius: 10px;
     }
     .texto {
-        padding: 5px 10px;
+        padding: 1.1rem 10px;
     }
-    .texto h2 {
+    .texto h1 {
         color: hsl(218, 44%, 22%);
         padding-bottom: auto;
+        font-size: 1.4rem;
     }
     .texto p {
         color: hsl(220, 15%, 55%);
