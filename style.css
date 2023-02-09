@@ -44,11 +44,14 @@
     .texto p {
         color: hsl(220, 15%, 55%);
         padding: 0.1 0.2rem;
+        font-size: 1rem;
+
     }
     .attribution { 
-        font-size: 11px; text-align: center;
+        font-size: 11px; 
+        text-align: center;
         margin: 22px 25%;}
 
     .attribution a {
-         color: hsl(228, 45%, 44%);
-      font-family: 'Dancing Script', cursive; }
+        color: hsl(228, 45%, 44%);
+        font-family: 'Dancing Script', cursive; }
