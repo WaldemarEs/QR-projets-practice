@@ -20,22 +20,22 @@
         padding: 18px;
         border-radius: 22px;
         text-align: center;
-        margin: 0 1em;
+        margin: 0 .6em;
     }
     .tarjeta img {
         width: 100%;
         border-radius: 10px;
     }
     .texto {
-        padding: 22px 10px;
+        padding: 5px 10px;
     }
     .texto h2 {
         color: hsl(218, 44%, 22%);
-        padding-bottom: 15px;
+        padding-bottom: auto;
     }
     .texto p {
         color: hsl(220, 15%, 55%);
-        padding: 20px 10px;
+        padding: 15px 10px;
     }
     .attribution { 
         font-size: 11px; text-align: center;
